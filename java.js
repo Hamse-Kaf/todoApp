@@ -1,1 +1,3 @@
-console.log("waa isbadal")
+const home = function myhome(){
+  console.log("waa saaxiibka bulshada.")
+}
